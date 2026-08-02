@@ -1,7 +1,7 @@
 #### Hi, there!
 
 # Sobre mim:
-Estudante de Sistemas de Informação e Analista e Monitora na SPTech School; apaixonada por gente, música e educação! ❤
+Formada em Sistemas de Informação, analista e professora assistente na SPTech School; apaixonada por gente, música e educação! ❤
 
 # O que eu já vi por aí:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
